@@ -1,0 +1,22 @@
+// This is the project stylesheet
+
+// Colors
+$sandy-brown: rgba(252, 191, 73, 1);
+$transparent-black: rgba(0, 0, 0, 0.2);
+$transparent-black-hi: rgba(0, 0, 0, 0.6);
+$white: rgba(255, 255, 255, 1);
+$gray: #D9D9D9;
+
+// Typographies
+@mixin inter-16-regular {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+}
+@mixin inter-18-bold {
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 18px;
+}
