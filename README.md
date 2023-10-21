@@ -1,5 +1,5 @@
 Please go under edit and edit this file as needed for your project
-
+# Project Name - Construction company management system
 
 #### Brief Description of Project - 
 #### Technologies used - Node js,React js,Express js,MongoDB,Firebase,TailwindCSS
@@ -8,9 +8,9 @@ Please go under edit and edit this file as needed for your project
 
 
 
-# Project Name - Construction company management system
-# Batch - 07
-### Group Leader - IT21180934 - Mr.Dilshan G.A.M. (DilshanGAM)
+
+# Team
+### Member 1 - IT21180934 - Mr.Dilshan G.A.M. (DilshanGAM)
 ### Member 2 - IT21166556 - Mr.Nadeeshan I.U.N. (it21166556) 
 ### Member 3 - IT21177828 - Mr.Herath R.P.N.M (IT21177828)
 ### Member 4 - IT21178436 - Ms.Nanayakkara A.G.D.R.C (rasanginanaykkara)
