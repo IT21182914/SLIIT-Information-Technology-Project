@@ -1,5 +1,13 @@
 Please go under edit and edit this file as needed for your project
 
+
+#### Brief Description of Project - 
+#### Technologies used - Node js,React js,Express js,MongoDB,Firebase,TailwindCSS
+![1691125068240](https://github.com/IT21182914/SLIIT-Information-Technology-Project/assets/99383107/53deea14-839f-4f94-90fd-4282ac916dac)
+![1691125028407](https://github.com/IT21182914/SLIIT-Information-Technology-Project/assets/99383107/a3841c64-e776-40d5-8727-3bdc065f2ca3)
+
+
+
 # Project Name - Construction company management system
 # Batch - 07
 ### Group Leader - IT21180934 - Mr.Dilshan G.A.M. (DilshanGAM)
@@ -11,8 +19,7 @@ Please go under edit and edit this file as needed for your project
 ### Member 7 - IT21180552 - Gunaratne M.H.B.P.T. (IT21180552)
 ### Member 8 - IT21163272 - Yasathri G.A. (IT2116372)
 
-#### Brief Description of Project - 
-#### Technologies used - 
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+
+
 
